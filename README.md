@@ -6,7 +6,7 @@ This is a lightweight AI tool to generate professional emails from bullet points
 
 | UI | Output |
 |----|--------|
-| ![Main UI](screenshots/1.png) | ![Generated Email](screenshots/3.png) |
+| ![Main UI](1.png) | ![Generated Email](3.png) |
 
 ## 🚀 Features
 
