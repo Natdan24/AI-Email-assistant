@@ -19,5 +19,5 @@ This is a lightweight AI tool to generate professional emails from bullet points
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ai-email-assistant.git
-   cd ai-email-assistant
+   git clone https://github.com/Natdan24/AI-Email-assistant.git
+   cd AI-Email-assistant
